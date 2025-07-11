@@ -1,4 +1,5 @@
 # WindenBerg Resort & Spa 🌄
+<img width="1888" height="912" alt="image" src="https://github.com/user-attachments/assets/39fa22d1-8a77-4a8a-92c7-b3d56d55f990" />
 
 This is the full source code for the WindenBerg Resort & Spa website — a luxury Alpine-inspired hospitality site.
 
